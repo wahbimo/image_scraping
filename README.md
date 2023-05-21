@@ -1,4 +1,4 @@
-# image_scraping
+# Image Scraping
 Downloading a list of images from the web using selenium library in Python and duckduckgo.com.
 
 # Script: Image Scraping using duckduckgo.com
